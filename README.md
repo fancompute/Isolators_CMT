@@ -1,6 +1,6 @@
-# Coupled-mode theory for dynamically modulated optical isolators
+# Optical isolators through dynamic modulation
 
-Collected here are some computations of transmission spectra within coupled-mode theory for the ring-based optical isolators discussed in:
+We compute the transmission spectra within coupled-mode theory for the ring-based optical isolators discussed in:
 
 ```
 [1] Yu and Fan, Nature Photonics, 3 (2009)
